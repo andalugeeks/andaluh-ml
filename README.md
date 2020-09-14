@@ -8,7 +8,7 @@ Transliterate andaluz proposals to español (spanish) spelling.
 
 ## Support
 
-Please [open an issue](https://github.com/andalugeeks/andaluh-wiki/issues/new) for support.
+Please [open an issue](https://github.com/andalugeeks/andaluh-ml/issues/new) for support.
 
 ## Contributing
 
